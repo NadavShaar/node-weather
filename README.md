@@ -4,4 +4,4 @@
 
 Weather app using nodejs
 
-Live at: https://nadavshaar-node-weather.herokuapp.com/
+Live [here](https://nadavshaar-node-weather.herokuapp.com/)
